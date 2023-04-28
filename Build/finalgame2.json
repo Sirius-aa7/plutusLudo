@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "finalgame2.data.unityweb",
+"asmCodeUrl": "finalgame2.asm.code.unityweb",
+"asmMemoryUrl": "finalgame2.asm.memory.unityweb",
+"asmFrameworkUrl": "finalgame2.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
